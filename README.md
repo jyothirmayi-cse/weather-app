@@ -13,3 +13,11 @@ A simple weather application built using **HTML, CSS, and JavaScript**.
 - CSS
 - JavaScript
 - OpenWeather API
+
+## 🔑 API Key Setup
+
+This project uses the OpenWeather API.
+
+To run this project locally:
+- Get a free API key from https://openweathermap.org/
+- Add your own OpenWeather API key in `script.js` to run the project.
